@@ -603,6 +603,10 @@ label.span4 {
 	}
 	.date h5 {
 		font-size: 1.6em;
+	}
+	.event a{
+		text-decoration: none;
+		color: white;
 	}		
 	.event h4 {
 		font-size: 2.1em;
