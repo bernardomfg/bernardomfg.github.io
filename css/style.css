@@ -237,7 +237,7 @@ i.sites {
 }
 .top-left-grid label.color1 {
 	width: 100%;
-	height: 4px;
+	height: 2px;
 	background:#34a09f;
 	position:absolute;
 	bottom: -2px;
@@ -245,7 +245,7 @@ i.sites {
 }
 .top-left-grid label.color2 {
 	width: 100%;
-	height: 4px;
+	height: 2px;
 	background:#b74488;
 	position:absolute;
 	bottom: -2px;
@@ -253,7 +253,7 @@ i.sites {
 }
 .top-left-grid label.color3 {
 	width: 100%;
-	height: 4px;
+	height: 2px;
 	background:#d58855;
 	position:absolute;
 	bottom: -2px;
@@ -261,7 +261,7 @@ i.sites {
 }
 .top-left-grid label.color4 {
 	width: 100%;
-	height: 4px;
+	height: 2px;
 	background:#8fa065;
 	position:absolute;
 	bottom: -2px;
@@ -269,7 +269,7 @@ i.sites {
 }
 .top-left-grid label.color5 {
 	width: 100%;
-	height: 4px;
+	height: 2px;
 	background:#7848c0;
 	position:absolute;
 	bottom: -2px;
@@ -277,7 +277,7 @@ i.sites {
 }
 .top-right-grid label.color6 {
 	width: 100%;
-	height: 4px;
+	height: 2px;
 	background:#6083f0;
 	position:absolute;
 	bottom: -2px;
@@ -285,7 +285,7 @@ i.sites {
 }
 .top-right-grid label.color7 {
 	width:100%;
-	height: 4px;
+	height: 2px;
 	background:#b79c20;
 	position:absolute;
 	bottom: -2px;
@@ -293,7 +293,7 @@ i.sites {
 }
 .top-right-grid label.color8 {
 	width: 100%;
-	height: 4px;
+	height: 2px;
 	background:#44b76f;
 	position:absolute;
 	bottom: -2px;
@@ -301,7 +301,7 @@ i.sites {
 }
 .top-right-grid label.color9 {
 	width:100%;
-	height: 4px;
+	height: 2px;
 	background:#f76040;
 	position:absolute;
 	bottom: -2px;
@@ -309,7 +309,7 @@ i.sites {
 }
 .top-right-grid label.color10 {
 	width: 100%;
-	height: 4px;
+	height: 2px;
 	background:#d8d8d8;
 	position:absolute;
 	bottom: -2px;
